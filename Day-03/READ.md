@@ -1,29 +1,37 @@
-# Day 04: Functions & Scope 🛠️
+# Day 03: Loops and Arrays 🚀
 
 ## Overview
-Functions are the building blocks of JavaScript. They allow you to wrap a piece of code and run it whenever you need it.
+Day 03 focuses on handling collections of data and automating repetitive tasks. Understanding loops is the difference between a "script" and a "program."
 
 ## Key Concepts
 
-### 1. Function Types
-- **Declaration:** Standard way, can be called before definition.
-- **Expression:** Stored in a variable, very common in modern apps.
-- **Arrow Function:** Shorter syntax `() => {}`, great for simple math or logic.
+### 1. Arrays (Reference Types)
+Arrays allow you to store multiple values in a single variable.
+- **Index:** Starts at `0`.
+- **Length:** `array.length` gives the count of elements.
+- **Reference Type:** Unlike strings or numbers, arrays are stored in the "Heap" memory.
 
-### 2. Return Keyword
-The `return` statement stops the function and sends a value back to where it was called. Without it, a function returns `undefined`.
-
-### 3. Scope (The "Boundary")
-- **Global:** Variables accessible from anywhere.
-- **Local:** Variables created inside a function stay inside. This prevents different parts of your code from messing with each other's data.
+### 2. Loops
 
 
+[Image of For Loop Flowchart]
 
-## Pro-Tips for "Over-learning"
-- **Don't Repeat Yourself (DRY):** Agar aap ek hi code 2 baar likh rahe hain, toh usay function mein daal dein.
-- **Naming:** Functions ke naam hamesha "verb" (kaam) honi chahiye, jaise `calculateTotal`, `fetchData`, ya `hideModal`.
+- **For Loop:** Best when you know exactly how many times you want to run the code (e.g., looping through a list).
+- **While Loop:** Best when you want to run code until a specific condition changes (e.g., waiting for a user to click a button).
 
-## Practice Challenge
-1. **Currency Converter:** Ek function banayen jo USD ko PKR mein convert kare.
-2. **Username Generator:** Ek function banayen jo user ka naam input le aur uske aage ek random number laga kar return kare.
-3. **Advanced:** Ek function banayen jo array of numbers le aur unka 'average' nikal kar return kare.
+### 3. Common Array Methods
+| Method | Description |
+| :--- | :--- |
+| `.push()` | Adds an item to the **end**. |
+| `.pop()` | Removes an item from the **end**. |
+| `.unshift()` | Adds an item to the **front**. |
+| `.shift()` | Removes an item from the **front**. |
+| `.indexOf()` | Finds the position of an element. |
+
+## Practice Tasks
+1. **Reverse a List:** Create an array of 5 numbers and use a `for` loop to print them in reverse order.
+2. **Sum Calculator:** Create an array of prices and calculate the total sum using a loop.
+3. **Filtering:** Loop through an array of ages and print only the ones that are `18+`.
+
+## Pro-Tip: Infinite Loops ⚠️
+Always ensure your loop has a "condition" that will eventually become `false`. If you write `while(true)` without a `break`, your browser will crash!
