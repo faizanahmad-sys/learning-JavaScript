@@ -8,7 +8,7 @@ This repository is dedicated to my 30-day journey of learning JavaScript from sc
 | :--- | :--- | :---: | :--- |
 | Day 01 | Variables & Data Types | ✅ | [View](./Day-01/) |
 | Day 02 | Arithmetic Operators & Conditions (If-Else) | 🔄 | [View](./Day-02/) |
-| Day 03 | |  |
+| Day 03 | Loops and Arrays  |
 | ... | ... | ... | ... |
 | Day 30 | Final Project | ⏳ | [Pending] |
 
