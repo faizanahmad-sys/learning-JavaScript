@@ -6,12 +6,13 @@ This repository is dedicated to my 30-day journey of learning JavaScript from sc
 
 | Day | Topic | Status | Folder Link |
 | :--- | :--- | :---: | :--- |
-| Day 01 | Variables & Data Types | ✅ | [View](./Day-01/) |
-| Day 02 | Arithmetic Operators & Conditions (If-Else) | 🔄 | [View](./Day-02/) |
-| Day 03 | Loops and Arrays  |
-| Day 04 | funtions |
-| ... | ... | ... | ... |
-| Day 30 | Final Project | ⏳ | [Pending] |
+| T 01 | Variables & Data Types | ✅ | [View](./Day-01/) |
+| T 02 | Arithmetic Operators & Conditions (If-Else) | 🔄 | [View](./Day-02/) |
+| T 03 | Loops and Arrays  |
+| T 04 | funtions |
+| mine | project | RockPaperScessior |  
+
+| T 30 | Final Project | ⏳ | [Pending] |
 
 ## ⚙️ How to use this Repo
 1. Clone the repo: `git clone <repo-url>`
