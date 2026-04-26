@@ -10,7 +10,7 @@ This repository is dedicated to my 30-day journey of learning JavaScript from sc
 | T 02 | Arithmetic Operators & Conditions (If-Else) | 🔄 | [View](./Day-02/) |
 | T 03 | Loops and Arrays  |
 | T 04 | funtions |
-| mine | project | RockPaperScessior |  
+| mine | project using DOM | RockPaperScessior |  
 
 | T 30 | Final Project | ⏳ | [Pending] |
 
