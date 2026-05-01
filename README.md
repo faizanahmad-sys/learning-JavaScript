@@ -12,7 +12,7 @@ This repository is dedicated to my 30-day journey of learning JavaScript from sc
 | T 04 | funtions |
 | mine | project using DOM | RockPaperScessior |  
 
-| T 30 | Final Project | ⏳ | [Pending] |
+| T 30 | Final Project | Currency Convertor  |
 
 ## ⚙️ How to use this Repo
 1. Clone the repo: `git clone <repo-url>`
