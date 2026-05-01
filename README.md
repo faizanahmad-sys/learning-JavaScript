@@ -16,7 +16,7 @@ This repository is dedicated to my 30-day journey of learning JavaScript from sc
 
 ## ⚙️ How to use this Repo
 1. Clone the repo: `git clone <repo-url>`
-2. Go to the specific Day folder to see the code.
+2. Go to the specific  folder to see the code.
 3. Run files using `node filename.js` or in the Browser Console.
 
 ---
